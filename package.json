@@ -1,0 +1,16 @@
+{
+  "name": "mamarmite-internationalization",
+  "version": "1.0.0",
+  "description": "Language dictionary string to use as Internationalization",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "internationalization",
+    "multilangue",
+    "dictionary"
+  ],
+  "author": "Marc-André Martin",
+  "license": "ISC"
+}
